@@ -1,0 +1,18 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board{
+    background-image: url("./flappybirdbg.png");
+}
+
+#scoreBox{
+    position: absolute;
+    top: 30px;
+    left: 785px;
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'Itim', cursive;
+}
